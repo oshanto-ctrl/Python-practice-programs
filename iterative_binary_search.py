@@ -5,7 +5,6 @@ Iterative approach of binary search.
 TC: O(log n)
 """
 
-
 def binary_search(l, low, high, key):
     """
     binary_search() searches key in a list
@@ -27,9 +26,7 @@ def binary_search(l, low, high, key):
     # if not found return -1
     return -1 
 
-
 # driver
-
 # a sorted numeric list
 l = [-1, 0, 1, 2, 3, 10, 12, 19, 21, 27, 31, 33, 37, 90, 100] 
 key = 31  # search for this element

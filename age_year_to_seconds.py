@@ -21,7 +21,6 @@ def age_in_seconds(user_age):
     age = user_age * 365 * 24 * 60 * 60
     return age
 
-
 #driver
 user_age = get_age() #gets user's age
 

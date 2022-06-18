@@ -6,7 +6,6 @@ a integer number is palindrome or not.
 __author__ = "Rejoan"
 """
 
-
 class Palindrome():
     """Modeling a palindrome checker."""
 
@@ -28,7 +27,6 @@ class Palindrome():
             checker = False
 
         return checker  # returns the boolean state
-
 
 # Driver
 word_one = Palindrome(11122111)

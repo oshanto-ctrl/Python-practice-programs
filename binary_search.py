@@ -5,7 +5,6 @@ Recursive approach of binary search.
 TC: O(log n)
 """
 
-
 def binary_search(l, low, high, key):
     """
     binary_search() searches key in a list
@@ -26,9 +25,7 @@ def binary_search(l, low, high, key):
     else:
         return -1  # If key not found in the list 
 
-
 # driver
-
 # a sorted numeric list
 l = [-1, 0, 1, 2, 3, 10, 12, 19, 21, 27, 31, 33, 37, 90, 100] 
 key = -1  # search for this element
