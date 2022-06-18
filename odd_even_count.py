@@ -1,3 +1,5 @@
+__author__ = "Rejoan"
+
 def odd_even_counter(arr, len_of_arr):
 	"""
 	Counts occurence of odd and

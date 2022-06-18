@@ -1,3 +1,5 @@
+__author__ = "Rejoan"
+
 """
 This program checks if
 a integer number is palindrome or not.

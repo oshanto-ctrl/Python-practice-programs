@@ -1,3 +1,5 @@
+__author__ = "Rejoan"
+
 """
 Recursive approach of binary search.
 TC: O(log n)

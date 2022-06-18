@@ -1,6 +1,5 @@
 __author__ = "Rejoan"
 
-
 # get age in years
 def get_age():
     """Take input users age and return the age.
