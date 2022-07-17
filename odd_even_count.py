@@ -23,3 +23,8 @@ len_of_arr = len(arr)
 odds, evens = odd_even_counter(arr, len_of_arr)
 print(f"odds = {odds} evens = {evens}")  # expected output : odds = 3 evens = 4
 print("...Program Finished...")
+
+
+
+
+
