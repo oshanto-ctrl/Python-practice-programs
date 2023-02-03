@@ -13,6 +13,7 @@ tempL = []
 
 output = ' '.join(tempL)
 
-print(tempL)
+# print(tempL)
 print(output)
+
 
