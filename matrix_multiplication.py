@@ -1,3 +1,8 @@
+"""
+Read Three Matrices A, B, and C and test if AB = C
+Probablistic Solution, Freivalds test.
+"""
+
 from random import randint
 from sys import stdin
 
